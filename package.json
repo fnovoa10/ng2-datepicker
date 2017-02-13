@@ -1,7 +1,7 @@
 {
-  "name": "ng2-datepicker",
+  "name": "ng2-datepicker2",
   "version": "1.5.0",
-  "description": "ng2-datepicker",
+  "description": "ng2-datepicker2",
   "scripts": {
     "serve": "node ./scripts/index.js --serve",
     "start": "npm run serve",
